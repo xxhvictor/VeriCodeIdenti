@@ -1,0 +1,6 @@
+%YAML:1.0
+layer_sizes: !!opencv-matrix
+   rows: 1
+   cols: 3
+   dt: i
+   data: [ 300, 24, 21 ]

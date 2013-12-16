@@ -1,0 +1,38 @@
+2586.png : P79R ---> NNSS : NO
+20.png : 5S67 ---> NNND : NO
+548.png : 7NYR ---> FFNS : NO
+554.png : 57FE ---> NDSF : NO
+5691.png : HUT4 ---> SSSF : NO
+7109.png : 4AR8 ---> DNNF : NO
+7125.png : 8Y7A ---> NNFN : NO
+7225.png : KT3A ---> FFFD : NO
+7400.png : P49U ---> NDSF : NO
+7459.png : NERT ---> SNFN : NO
+7648.png : 68FH ---> DNDD : NO
+7955.png : 37KE ---> FNSN : NO
+7983.png : 34YD ---> DNNN : NO
+8246.png : 8UHP ---> DNDN : NO
+3783.png : XN78 ---> NSSF : NO
+3789.png : ADP9 ---> FNNN : NO
+3796.png : FES9 ---> NNDS : NO
+3802.png : ESA5 ---> NFFN : NO
+3808.png : YHER ---> SNSS : NO
+3814.png : 89S6 ---> NDNF : NO
+3820.png : XRK3 ---> FSFS : NO
+3826.png : AF43 ---> FNSF : NO
+3832.png : 9RTH ---> NDNN : NO
+3838.png : D948 ---> FNNN : NO
+3850.png : H4X3 ---> NNNR : NO
+3926.png : N3FA ---> SSNS : NO
+3932.png : R5U3 ---> NDDN : NO
+3938.png : 6X59 ---> NSNS : NO
+3950.png : 8EDP ---> NFSF : NO
+3963.png : P6SE ---> SFFN : NO
+3963.png : UR5K ---> SFFN : NO
+3964.png : D6S5 ---> FNNF : NO
+
+
+total : 32
+right : 0
+ratio : 0.0
+totaltime: 267, avtime: 8.34375
